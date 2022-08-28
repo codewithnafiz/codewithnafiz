@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Nafiz Mahmud
 ### - 📫 How to reach me: asknafiz@proton.me
-                      or, askcodewithnafiz@protonmail.com
+###                   or, askcodewithnafiz@protonmail.com
 
 - I'm a Student based in Bangladesh
 - 🔭 I’m currently working on developing A Botnet
