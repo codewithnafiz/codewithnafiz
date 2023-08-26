@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Nafiz Mahmud
-### - 📫 Reach me at asknafiz@proton.me
+### - 📫 Reach me at asknafizmahmud@proton.me
 
 - I'm a Student based in Bangladesh
 - 🔭 I’m currently working on developing A Botnet
